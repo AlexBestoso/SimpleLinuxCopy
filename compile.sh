@@ -1,2 +1,2 @@
 echo "compiling..."
-gcc main.c -o ../../copy.out
+gcc main.c -o ./copy.out
