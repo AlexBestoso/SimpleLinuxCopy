@@ -15,8 +15,7 @@
 #include <fcntl.h>
 
 #define MAX_B_SIZE 1024
-/*
- * System call */
+
 int main(int argc, char *argv[]){
 	if(argc != 3){
 		printf("\nPropper use:\n[%s] [existing file] [new file]", argv[0]);
